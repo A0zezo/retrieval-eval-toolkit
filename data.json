@@ -1,0 +1,4 @@
+{"docs": {"d1": "python is a programming language", "d2": "docker runs containers", "d3": "pandas analyses tabular data",
+ "d4": "vector search finds nearest embeddings", "d5": "fastapi builds web apis in python", "d6": "git tracks source code changes"},
+ "qrels": {"which language is used for programming": ["d1"], "run containers": ["d2"], "search nearest embeddings": ["d4"],
+ "build python web apis": ["d5", "d1"], "analyse tabular data": ["d3"]}}
